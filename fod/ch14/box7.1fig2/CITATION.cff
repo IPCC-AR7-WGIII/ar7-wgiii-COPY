@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this figure or its data, please cite it as below."
+title: "Box 14.7.1, Figure 2 | Whether digitalisation cuts emissions is a net balance of direct, application-level and economy-wide effects"
+abstract: "The net-effect and counterfactual framing. The emissions consequences of digitalisation combine the direct energy and resource requirements of digital infrastructure, application-level effects in end-use and supply sectors, and indirect and economy-wide effects including rebound and induced demand, assessed against a counterfactual in which the technology is absent. Dashed elements indicate effects of uncertain magnitude and direction. The quantified assessment of the net emissions balance is conducted in Chapter 9."
+authors:
+  - family-names: "Al Khourdajie"
+    given-names: "Alaa"
+    orcid: "https://orcid.org/0000-0003-1376-7529"

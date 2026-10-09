@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this figure or its data, please cite it as below."
+title: "Figure 14.7.3 | Modelled system value of digitally-enabled flexibility is consistently positive. Measured outcomes have yet to be reported."
+abstract: "Modelled system value of digitally-enabled flexibility and integration. Each entry reports a result from the studies and institutional analyses cited in 14.7.2 and 14.7.4: bars span reported ranges, point markers denote single reported values, and colour denotes the system boundary (city, sector, national system). Values are percentage reductions in system costs or curtailment relative to the comparator stated in each entry. All values are modelled. None is a measured outcome."
+authors:
+  - family-names: "Al Khourdajie"
+    given-names: "Alaa"
+    orcid: "https://orcid.org/0000-0003-1376-7529"

@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this figure or its data, please cite it as below."
+title: "Figure 14.7.1 | Digitalisation technologies for integration span the full maturity range, from deployed at scale to research and prototype"
+abstract: "Evidenced maturity of digitalisation technology categories by integration mode. Cells are assigned to one of three classes (deployed at scale; demonstrated in pilots; research and prototype) on the basis of the assessed sources cited within each cell (literature assessed to mid-2026). Numeric technology readiness levels are not used because published values for integration applications rest on author or survey judgement (14.7.1)."
+authors:
+  - family-names: "Al Khourdajie"
+    given-names: "Alaa"
+    orcid: "https://orcid.org/0000-0003-1376-7529"
