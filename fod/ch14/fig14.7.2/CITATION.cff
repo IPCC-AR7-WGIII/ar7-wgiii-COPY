@@ -1,8 +1,0 @@
-cff-version: 1.2.0
-message: "If you use this figure or its data, please cite it as below."
-title: "Figure 14.7.2 | Demand response utilised today is about one fifth of the volume needed by 2030"
-abstract: "Demonstrated demand response versus assessed need. Utilised demand response worldwide as of 2024 by sector (industry, buildings), with national volumes annotated and sources cited in the panel (IEA, 2026a), against the roughly 500 GW of demand response required by 2030 in the IEA Net Zero Emissions scenario (IEA, 2023). The benchmark is a normative target. Utilisation (2024 methodology) and the benchmark (2023 NZE trajectory) are different metrics and vintages, cited separately. Short-term flexibility needs are projected to grow two- to seven-fold by 2035 under the Stated Policies Scenario, two- to ten-fold under Net Zero (IEA, 2025)."
-authors:
-  - family-names: "Al Khourdajie"
-    given-names: "Alaa"
-    orcid: "https://orcid.org/0000-0003-1376-7529"
